@@ -18,17 +18,20 @@ body {
 }
 
 .image-bg-fluid-height {
-	background: url('../../../photos/forest_1.jpg') no-repeat center center scroll;
+	background: linear-gradient( rgba(20, 10, 20, 0.7), rgba(120, 40, 40, .3)), url('../../../photos/forest_1.jpg') center no-repeat fixed;
+	background-size: cover;
     padding: 100px 0;
 }
 
 .image-bg-fixed-height {
-	background: url('http://lorempixel.com/g/1920/500/') no-repeat center center scroll;
+	background: linear-gradient( rgba(10, 63, 60, 0.25), rgba(0, 40, 40, .3)), url('../../../photos/forest_1.jpg') center no-repeat fixed;
+	background-size: cover;
     height: 450px;
 }
 
 .img-center {
 	margin: 0 auto;
+	
 }
 
 section {
