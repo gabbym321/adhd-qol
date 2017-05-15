@@ -18,22 +18,23 @@ body {
 }
 
 .image-bg-fluid-height {
-	background: linear-gradient( rgba(10, 43, 40, 0.7), rgba(30, 40, 40, .3)), url('../../../photos/forest_1.jpg') center no-repeat fixed;
+	background: linear-gradient( rgba(10, 43, 40, 0.7), rgba(30, 40, 40, .3)), url('../photos/forest_1.jpg') center no-repeat fixed;
 	background-size: cover;
     padding: 100px 0;
 }
 .title {
     padding: 70px;
-    color: #BCBABE;
+    color: #008000;
     
     font-family:"new";
 }
 .title h1  {
     font-size:500%;
+    color: #008000;
 }
 
 
-.image-bg-fixed-height {
+#head {
 	background: linear-gradient( rgba(10, 63, 60, 0.25), rgba(0, 40, 40, .3)), url('../photos/forest_1.jpg') center no-repeat fixed;
 	background-size: cover;
     height: 250px;
@@ -51,11 +52,21 @@ body {
 .island {
     height:300px;
     width:350px;
+    display: block;
+    margin: auto;
+
+
     
+}
+#iv {
+    display:block;
+    margin:auto;
+    height:50px;
 }
 
 section {
     padding: 75px 0;
+    background:#9F7959;
 }
 
 .section-heading {
