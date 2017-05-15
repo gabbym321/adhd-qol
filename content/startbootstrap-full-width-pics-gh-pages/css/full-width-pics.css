@@ -24,21 +24,17 @@ body {
 }
 .title {
     padding: 70px;
-    color: #008000;
+    color: #BECED3;
     
     font-family:"new";
 }
 .title h1  {
     font-size:500%;
-    color: #008000;
+    color: #BECED3;
 }
 
 
-#head {
-	background: linear-gradient( rgba(10, 63, 60, 0.25), rgba(0, 40, 40, .3)), url('../photos/forest_1.jpg') center no-repeat fixed;
-	background-size: cover;
-    height: 250px;
-}
+ 
 .background-space {
     background: linear-gradient( rgba(10, 63, 60, 0.25), rgba(0, 40, 40, .3)), url('../photos/forest_1.jpg') center no-repeat fixed;
 	background-size: cover;
