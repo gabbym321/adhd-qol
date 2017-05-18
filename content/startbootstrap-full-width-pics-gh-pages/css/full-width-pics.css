@@ -65,7 +65,7 @@ body {
 }
 section {
     padding: 75px 0;
-    background:#9F7959;
+    background:#A2BABF;
 }
 
 .section-heading {
@@ -73,6 +73,10 @@ section {
     font-size: 4em;
     display:center;
    
+}
+.btn btn-info {
+    color:brown;
+
 }
 
 .section-lead {
