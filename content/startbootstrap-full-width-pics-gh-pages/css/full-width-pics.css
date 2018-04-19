@@ -18,7 +18,7 @@ body {
 }
 
 .image-bg-fluid-height {
-	background: linear-gradient( rgba(10, 43, 40, 0.7), rgba(30, 40, 40, .3)), url('../photos/forest_1.jpg') center no-repeat fixed;
+	background: linear-gradient( rgba(10, 43, 40, 0.7), rgba(30, 40, 40, .3)), url('../photos/distracted.jpg') center no-repeat fixed;
 	background-size: cover;
     padding: 100px 0;
 }
@@ -36,7 +36,7 @@ body {
 
  
 .background-space {
-    background: linear-gradient( rgba(10, 63, 60, 0.25), rgba(0, 40, 40, .3)), url('../photos/forest_1.jpg') center no-repeat fixed;
+    background: linear-gradient( rgba(30, 23, 40, 0.25), rgba(0, 40, 40, .3)), url('../photos/distracted.jpg') center no-repeat fixed;
 	background-size: cover;
     height: 250px;
 }
@@ -62,6 +62,7 @@ body {
 }
 .list {
     font-size: 150%;
+    font-family: "Ostrich sans";
 }
 section {
     padding: 75px 0;
